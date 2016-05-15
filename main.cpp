@@ -7,7 +7,7 @@ using namespace SEnum;
 
 int main()
 {
-    MyEnum m_enum = MyEnum::MY_ENUM_ONE;
+    MyCmd m_enum = MyCmd::MY_ENUM_ONE;
     return 0;
 
 }
